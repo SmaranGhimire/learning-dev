@@ -1,2 +1,3 @@
 # learning-dev
-first time using git hub
+first time using git
+Author - Smaran Ghimire
